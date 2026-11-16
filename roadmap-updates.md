@@ -21,6 +21,8 @@
 
   The message itself goes here, after one empty line.
   You can use **bold** and [link text](https://example.com).
+
+ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
   ---------------------------------------------------------------
 
   DATE CHANGES (optional)

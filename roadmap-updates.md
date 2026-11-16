@@ -47,7 +47,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-16
 For: All
 
-This is a test. If you can see this, you are a wizard Harry.
+This is a test. Time to go home.
 
 <!-- Example (remove the comment marks to publish it):
 ...

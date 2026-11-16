@@ -43,7 +43,14 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 
 # Announcements
 
+## Test announcement
+Date: 2026-11-16
+For: All
+
+This is a test. If you can see this, you are a wizard Harry.
+
 <!-- Example (remove the comment marks to publish it):
+...
 
 ## Course registration extended
 Date: 2026-09-08

@@ -319,5 +319,5 @@ Being confirmed: yes
 - **Where are they:** Sometimes they just disappear
 - **Attempts:** We are doing all we can
 
-IF YOU SEE ANY OF THESE:
+More Information:
 - [DONT ACT! Report to the ADMIN OFFICE RIGHT AWAY)

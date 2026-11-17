@@ -307,3 +307,17 @@ Always check the building prefix in Neptun. Use the interactive campus map, and 
 More information:
 - [Interactive campus map (Lágymányos)](https://ttk.elte.hu/en/interactive-map-bis)
 - [POL-IR contact page, office hours & campus directions](https://polir.elte.hu/contact)
+
+# UPDATES FROM ADMIN TEAM
+
+## Where is all the extension chords
+ID: g-exams
+For: All
+Ask: Everyone you see
+Being confirmed: yes
+
+- **Where are they:** Sometimes they just disappear
+- **Attempts:** We are doing all we can
+
+IF YOU SEE ANY OF THESE:
+- [DONT ACT! Report to the ADMIN OFFICE RIGHT AWAY)

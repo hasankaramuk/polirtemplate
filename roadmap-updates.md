@@ -47,7 +47,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-17
 For: All
 
-There is a Turkish belly dancing event at the 1st floor!!!!
+IT WILL RAIN TODAY BE CAREFUL!
 
 <!-- Example (remove the comment marks to publish it):
 ...

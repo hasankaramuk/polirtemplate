@@ -47,7 +47,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-17
 For: All
 
-SIMURG YARIN DIYE BISEY YOK BASMAYA DEVAM ET!
+GTA VI IS COMING SOON!
 
 <!-- Example (remove the comment marks to publish it):
 ...

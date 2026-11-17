@@ -89,7 +89,7 @@ More information:
 - [TáTK FAQ for enrolled students](https://tatk.elte.hu/en/faq/enrolledstudents)
 - [Faculty regulations](https://tatk.elte.hu/en/about/regulations)
 
-## Canvas and Moodle: which one do I use?
+## Canvas and Moodle: which one do I use? UPDATED
 ID: g-moodle
 For: All
 Ask: teacher, it

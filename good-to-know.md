@@ -320,4 +320,4 @@ Confirmed: yes
 - **Attempts:** We are doing all we can
 
 More Information:
-- [DONT ACT! Report to the ADMIN OFFICE RIGHT AWAY)
+- [Interactive campus ap (Lágymányos)](https://ttk.elte.hu/en/interactive-map-bis)

@@ -44,10 +44,10 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 # Announcements
 
 ## Test announcement
-Date: 2026-11-16
+Date: 2026-11-17
 For: All
 
-We need beer in the office.
+There is a Turkish belly dancing event at the 1st floor!!!!
 
 <!-- Example (remove the comment marks to publish it):
 ...

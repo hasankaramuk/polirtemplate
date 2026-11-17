@@ -314,7 +314,7 @@ More information:
 ID: g-exams
 For: All
 Ask: Everyone you see
-Being confirmed: yes
+Confirmed: yes
 
 - **Where are they:** Sometimes they just disappear
 - **Attempts:** We are doing all we can

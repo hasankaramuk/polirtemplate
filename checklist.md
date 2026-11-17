@@ -66,14 +66,14 @@
 
 # Page settings
 Title: Your year, step by step
-Academic year: 2026/2027
+Academic year: 2087/2088
 Intro: Every deadline, registration window and thesis step for the academic year, with who to contact when something goes wrong. Choose your programme and year, then tick items off as you go. Your ticks are saved in this browser on this device.
 Banner: DRAFT: items marked “Date to be confirmed” or “Being confirmed” are still being checked with the faculty.
 
 
 # Before you arrive
 ID: p1
-Range: July – August
+Range: Before September
 
 Paperwork for new students before registration week, plus planning ahead for continuing students.
 

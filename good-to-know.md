@@ -94,8 +94,7 @@ ID: g-moodle
 For: All
 Ask: teacher, it
 
-ELTE is moving to **Moodle** as its only learning platform. For TáTK:
-- **Autumn 2026:** courses may still be on Canvas
+MOODLE IS ON NOW!
 - **Mid-January 2027:** students get access to spring courses on Moodle
 - **February 2027:** Moodle goes live, and lecturers can run courses only on Moodle
 Canvas stays accessible for now, but it may close early for security reasons, so save the materials you want to keep. **Always use the platform named by your lecturer**, and check both if unsure.

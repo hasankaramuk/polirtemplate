@@ -47,7 +47,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-17
 For: All
 
-GTA VI IS COMING SOON!
+Selam Abi! Fifada sana koydum.
 
 <!-- Example (remove the comment marks to publish it):
 ...

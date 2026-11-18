@@ -47,7 +47,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-17
 For: All
 
-Selam Abi! Fifada sana koydum.
+THIS IS WORKING
 
 <!-- Example (remove the comment marks to publish it):
 ...

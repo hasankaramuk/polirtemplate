@@ -47,7 +47,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-17
 For: All
 
-THIS IS WORKING
+I WILL BE DONE IN AN HOUR
 
 <!-- Example (remove the comment marks to publish it):
 ...

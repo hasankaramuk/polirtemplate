@@ -51,7 +51,7 @@ Checked: 2026-11-13
 Updated regularly: yes
 <!-- used on: activate-aut -->
 
-2026/27 dates verified 13 Nov 2026.
+2026/27 dates verified 20 Nov 2026.
 
 ## Neptun academic deadlines (search “TÁTK”)
 ID: neptun-deadlines

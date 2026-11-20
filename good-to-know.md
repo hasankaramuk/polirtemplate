@@ -249,3 +249,16 @@ TáTK uses two main buildings on the Lágymányos Campus (Pázmány Péter sét�
 - **Southern Building:** rooms starting with **LD**
 - **Northern Building:** rooms starting with **LE** or **LK**
 Always check the building prefix in Neptun. Use the interactive campus map, and the POL-IR page has directions by tram (4, 6) and bus.
+
+# Testing online sync
+
+## Testing added subjects
+ID: 
+For: All
+Ask: dept
+Links: dept, intl-office
+
+This just a add test  **2026.11.20 16.04**.
+-WELFARE UPDATE
+-New workshop at 100C
+(https://google.com)

@@ -22,7 +22,6 @@
   The message itself goes here, after one empty line.
   You can use **bold** and [link text](https://example.com).
 
-ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
   ---------------------------------------------------------------
 
   DATE CHANGES (optional)
@@ -47,7 +46,7 @@ ALL EXAMS ARE CANCELLED YYYEEEAAAHHH!
 Date: 2026-11-17
 For: All
 
-I WILL BE DONE IN AN HOUR
+Online sync works perfectly
 
 <!-- Example (remove the comment marks to publish it):
 ...

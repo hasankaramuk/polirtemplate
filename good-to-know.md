@@ -259,6 +259,17 @@ Ask: dept
 Links: dept, intl-office
 
 This just a add test  **2026.11.20 16.04**.
--WELFARE UPDATE
--New workshop at 100C
-(https://google.com)
+- **WELFARE UPDATE:** Bla 
+- **New workshop at 100C:** bubu
+[For more information](https://google.com)
+
+## Testing added subjects
+ID: 
+For: MA
+Ask: dept
+Links: dept, intl-office
+
+This just a add test  **2026.11.20 16.04**.
+- **WELFARE UPDATE:** Bla bla
+- **New workshop at 100C:** bubu
+[For more information](https://google.com)

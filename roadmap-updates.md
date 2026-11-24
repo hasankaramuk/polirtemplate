@@ -43,10 +43,10 @@
 # Announcements
 
 ## Test announcement
-Date: 2026-11-17
+Date: 2026-11-24
 For: All
 
-Online sync works perfectly
+Wednesday there is an event at 2.61
 
 <!-- Example (remove the comment marks to publish it):
 ...

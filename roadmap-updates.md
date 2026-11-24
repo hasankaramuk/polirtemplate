@@ -46,7 +46,7 @@
 Date: 2026-11-24
 For: All
 
-Wednesday there is an event at 2.61
+Wednesday there is an event on Climate Change at 2.61
 
 <!-- Example (remove the comment marks to publish it):
 ...

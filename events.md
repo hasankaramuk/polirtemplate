@@ -32,6 +32,13 @@
 
 # Events
 
+## CAT CONTEST AT THE NORTH BUILDING
+Date: 2026-12-10
+Time: 14:00–16:00
+Place: Meeting point: North Building entrance
+For: All
+Sign up: https://forms.office.com/
+
 <!-- Example (remove the comment marks to publish it):
 
 ## Embassy visit: Embassy of Japan
